@@ -3,3 +3,6 @@ version: '${project.version}'
 main: rc.pop.main
 api-version: 1.18
 authors: [ WaffleIsOG ]
+depend:
+  - luckperms
+  - placeholderapi
